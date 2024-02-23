@@ -3,7 +3,7 @@
 let currentQuestion = 0;
 let score = 0;
 let quizStartTime; // Variable to store the start time of the quiz
-const totalTime = 60; // Total time for each question (in seconds)
+const totalTime = 900; // Total time for each question (in seconds)
 let elapsedTime = 0; // Elapsed time since the quiz started (in seconds)
 let timerInterval; // Interval for updating the timer
 
